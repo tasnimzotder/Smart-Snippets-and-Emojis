@@ -40,6 +40,10 @@ Open VS Code and type `ctrl+P`, type `ext install tasnimzotder.lightning-snippet
 
 <!-- Users appreciate release notes as you update your extension. -->
 
+### 1.0.1
+
+Added python functions -> sort, search
+
 ### 1.0.0
 
 Added basic snippets
