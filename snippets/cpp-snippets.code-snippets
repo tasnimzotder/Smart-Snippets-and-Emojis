@@ -1,1 +1,72 @@
-{}
+{
+  "Check for prime number - Naive": {
+    "prefix": "!prime_n",
+    "body": [
+      "bool inPrime(int n){",
+      "\tif (n == 1) return false;",
+      "\tfor (int i = 2; i < n; i++) {",
+      "\t\tif (n % i == 0) return false;",
+      "\treturn true;",
+      "}$0"
+    ],
+    "description": [
+      "The function for checking prime number",
+      "Complexity: O(n)"
+    ]
+  },
+  "Check for prime number - Efficient 1": {
+    "prefix": "!prime_rtn",
+    "body": [
+      "bool isPrime(int x) {",
+      "\tif (x == 1) return false;",
+      "\tfor (int i = 2; i*i <= x; i++) {",
+      "\t\tif (x % i == 0) return false;",
+      "\t}",
+      "\treturn true;",
+      "}$0"
+    ],
+    "description": [
+      "The function for checking prime number",
+      "Complexity: O(sqrt(n))"
+    ]
+  },
+  "Check for prime number - Efficient 2": {
+    "prefix": "!prime_rtn_1",
+    "body": [
+      "bool isPrime(int x) {",
+      "\tif (x == 1)",
+      "\t\treturn false;",
+      "\telse if (x == 2 || n == 3)",
+      "\t\treturn true;",
+      "\telse if (n % 2 == 0 || n % 3 == 0)",
+      "\t\treturn false;",
+      "\tfor (int i = 2; i*i <= x; i++) {",
+      "\t\tif (x % i == 0)",
+      "\t\t\treturn false;",
+      "\t}",
+      "\treturn true;",
+      "}$0"
+    ],
+    "description": [
+      "The function for checking prime number",
+      "Complexity: O(sqrt(n))"
+    ]
+  },
+  "Count Digits": {
+    "prefix": "!count_digits_logn",
+    "body": [
+      "int countDigits(long n) {",
+      "\tint count = 0;",
+      "\twhile (n != 0) {",
+      "\t\tn /= 10;",
+      "\t\t++count;",
+      "\t",
+      "\treturn count;",
+      "}$0"
+    ],
+    "description": [
+      "Function for count the number of digits",
+      "Complexity: O(log(n))"
+    ]
+  }
+}

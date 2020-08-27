@@ -7,6 +7,9 @@
         "vscode": "^1.48.0"
     },
     "publisher": "tasnimzotder",
+    "author": {
+        "name": "Tasnim Zotder"
+    },
     "icon": "icon.png",
     "repository": {
         "type": "git",
@@ -22,5 +25,8 @@
                 "path": "./snippets/cpp-snippets.code-snippets"
             }
         ]
+    },
+    "__metadata": {
+        "publisherDisplayName": "Tasnim Zotder"
     }
 }
