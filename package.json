@@ -1,0 +1,26 @@
+{
+    "name": "lightning-snippets",
+    "displayName": "Lightning Snippets",
+    "description": "Programming Code Snippets for VS Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "publisher": "tasnimzotder",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tasnimzotder/lightning-snippets.git"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "cpp",
+                "path": "./snippets/cpp-snippets.code-snippets"
+            }
+        ]
+    }
+}
