@@ -2,10 +2,11 @@
   "Check for prime number - Naive": {
     "prefix": "!prime_n",
     "body": [
-      "bool inPrime(int n){",
+      "bool isPrime(int n){",
       "\tif (n == 1) return false;",
       "\tfor (int i = 2; i < n; i++) {",
       "\t\tif (n % i == 0) return false;",
+      "\t}",
       "\treturn true;",
       "}$0"
     ],

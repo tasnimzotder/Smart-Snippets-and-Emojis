@@ -23,6 +23,10 @@
             {
                 "language": "cpp",
                 "path": "./snippets/cpp-snippets.code-snippets"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/py-snippets.code-snippets"
             }
         ]
     },
