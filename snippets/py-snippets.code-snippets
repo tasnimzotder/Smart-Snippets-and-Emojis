@@ -70,7 +70,8 @@
       "\tfor i in range(len(arr)):",
       "\t\tfor j in range(len(arr) - i - 1):",
       "\t\t\tif arr[j] > arr[j + 1]:",
-      "\t\t\t\t(arr[j], arr[j  + 1]) = (arr[j + 1] + arr[j])",
+      "\t\t\t\t(arr[j], arr[j  + 1]) = (arr[j + 1], arr[j])",
+      "\n\treturn arr",
       "$0"
     ]
   },

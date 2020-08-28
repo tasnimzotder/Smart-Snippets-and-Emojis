@@ -1,0 +1,82 @@
+{
+  "Grinning Face": {
+    "prefix": [":face", ":grinning"],
+    "body": "😀"
+  },
+  "Grinning face with big eyes": {
+    "prefix": [":face", ":grinning", ":big_eyes"],
+    "body": "😃"
+  },
+  "Grinning face with smiling eyes": {
+    "prefix": [":face", ":grinning", ":smiling_eyes"],
+    "body": "😄"
+  },
+  "Beaming face with smiling eyes": {
+    "prefix": [":face", ":beaming", ":smiling_eyes"],
+    "body": "😁"
+  },
+  "Grinning squinting face": {
+    "prefix": [":face", ":grinning", ":squinting"],
+    "body": "😆"
+  },
+  "Grinning face with sweat": {
+    "prefix": [":face", ":sweat", ":grinning"],
+    "body": "😅"
+  },
+  "Rolling on the floor laughing": {
+    "prefix": [":laughing", ":rolling_on_floor"],
+    "body": "🤣"
+  },
+  "Face with tears of joy": {
+    "prefix": [":face", ":tears", ":joy"],
+    "body": "😂"
+  },
+  "Slightly smiling face": {
+    "prefix": [":face", ":smiling", ":slightly_smiling"],
+    "body": "🙂"
+  },
+  "Upside-down face": {
+    "prefix": [":face", ":upside-down"],
+    "body": "🙃"
+  },
+  "Winking face": {
+    "prefix": [":face", ":winking"],
+    "body": "😉"
+  },
+  "Smiling face with smiling eyes": {
+    "prefix": [":face", ":smiling_face", ":smiling_eyes"],
+    "body": "😊"
+  },
+  "Smiling face with halo": {
+    "prefix": [":halo", ":smiling_face"],
+    "body": "😇"
+  },
+  "Pile of poo": {
+    "prefix": [":poo", ":pile_of_poo"],
+    "body": "💩"
+  },
+  "Face with Rolling Eyes": {
+    "prefix": [":face", ":rolling_eyes"],
+    "body": "🙄"
+  },
+  "Distraught Face": {
+    "prefix": [":face", ":distraught"],
+    "body": "😫"
+  },
+  "Thinking Face": {
+    "prefix": [":face", ":thinking"],
+    "body": "🤔"
+  },
+  "Fire": {
+    "prefix": [":fire"],
+    "body": "🔥"
+  },
+  "Red heart": {
+    "prefix": [":red", ":heart_red"],
+    "body": "❤️"
+  },
+  "Loudly Crying Face": {
+    "prefix": [":crying_loudly", ":face"],
+    "body": "😭"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "Header 1": {
+    "prefix": ":h1",
+    "body": "# $0",
+    "description": "h1"
+  },
+  "Header 2": {
+    "prefix": ":h2",
+    "body": "## $0",
+    "description": "h2"
+  },
+  "Header 3": {
+    "prefix": ":h3",
+    "body": "### $0",
+    "description": "h3"
+  },
+  "Header 4": {
+    "prefix": ":h4",
+    "body": "#### $0",
+    "description": "h4"
+  },
+  "Header 5": {
+    "prefix": ":h5",
+    "body": "##### $0",
+    "description": "h5"
+  },
+  "Bold": {
+    "prefix": ":bold",
+    "body": "**$0**",
+    "description": "Bold"
+  },
+  "Italic": {
+    "prefix": ":italic",
+    "body": "*$0*",
+    "description": "Italic"
+  },
+  "Unordered List": {
+    "prefix": ":list_unordered",
+    "body": "* $0",
+    "description": "Unordered List"
+  },
+  "Ordered List": {
+    "prefix": ":list_ordered",
+    "body": "1. $0",
+    "description": "Ordered List"
+  },
+  "Image": {
+    "prefix": ":image",
+    "body": "![${1: Name}](${2: Location})",
+    "description": "Image"
+  },
+  "Links": {
+    "prefix": ":link",
+    "body": "![${1: Name}](${2: URL})",
+    "description": "Link"
+  },
+  "Code": {
+    "prefix": ":code",
+    "body": ["```", "$0", "```"],
+    "description": "Code"
+  },
+  "Inline Code": {
+    "prefix": ":code_inline",
+    "body": "`$0`",
+    "description": "Inline Code"
+  },
+  "Task List": {
+    "prefix": ":task",
+    "body": "- [ ] $0",
+    "description": "Task List"
+  },
+  "Task List - Done": {
+    "prefix": ":task_done",
+    "body": "- [x] $0",
+    "description": "Task List - Done"
+  },
+  "Table": {
+    "prefix": ":table",
+    "body": [
+      "${1: First Header} | ${2: Second Header}",
+      "------------------ | -------------------",
+      "${3: Cell 1}       | ${4: Cell 2}"
+    ],
+    "description": "Table"
+  },
+  "Table _x3": {
+    "prefix": ":table_x3",
+    "body": [
+      "${1: First Header} | ${2: Second Header} | ${3: Third Header}",
+      "------------------ | ------------------- | ------------------",
+      "${4: Cell 1}       | ${5: Cell 2}        | ${6: Cell 3}"
+    ],
+    "description": "Table _x3 | 3 rows"
+  },
+  "Shields - GitHub pull request check state": {
+    "prefix": ":sh_gh_pr",
+    "body": "![GitHub pull request check state](https://img.shields.io/github/status/s/pulls/${1:user}/${2:repo}/${3:number}?style=${4:flat})",
+    "description": [
+      "Shields - GitHub pull request check state",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - npm bundle size": {
+    "prefix": ":sh_npm_bundle_size",
+    "body": "![npm bundle size](https://img.shields.io/bundlephobia/${1:format (min/minzip)}/${2:package name}?style=${3:flat})",
+    "description": [
+      "Shields - npm bundle size",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub repo size": {
+    "prefix": ":sh_gh_repo_size",
+    "body": "![GitHub repo size](https://img.shields.io/github/repo-size/${1:user}/${2:repo}?style=${3:flat})",
+    "description": [
+      "Shields - GitHub repo size",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub All Releases": {
+    "prefix": ":sh_gh_all_releases",
+    "body": "![GitHub All Releases](https://img.shields.io/github/downloads/${1:user}/${2:repo}/total?style=${3:flat})",
+    "description": [
+      "Shields - GitHub All Releases",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub Releases": {
+    "prefix": ":sh_gh_releases",
+    "body": "![GitHub Releases](https://img.shields.io/github/downloads/${1:user}/${2:repo}/${3:tag}/total?style=${4:flat})",
+    "description": [
+      "Shields - GitHub Releases",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub issues": {
+    "prefix": ":sh_gh_issues",
+    "body": "![GitHub issues](https://img.shields.io/github/issues/${1:user}/${2:repo}?style=${3:flat})",
+    "description": [
+      "Shields - GitHub issues",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub pull requests": {
+    "prefix": ":sh_gh_pr",
+    "body": "![GitHub pull requests](https://img.shields.io/github/issues-pr/${1:user}/${2:repo}?style=${3:flat})",
+    "description": [
+      "Shields - GitHub pull requests",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - GitHub followers": {
+    "prefix": ":sh_gh_followers",
+    "body": "![GitHub followers](https://img.shields.io/github/followers/${1:user}?label=${2:followers}&style=${3:flat})",
+    "description": [
+      "Shields - GitHub followers",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  },
+  "Shields - Twitter Follow": {
+    "prefix": ":sh_twitter_follow",
+    "body": "![Twitter Follow](https://img.shields.io/twitter/follow/${1:user}?label=${2:Follow}&style=${3:flat})",
+    "description": [
+      "Shields - Twitter Follow",
+      "style: plastic, flat, flat-square, for-the-badge, social"
+    ]
+  }
+}

@@ -1,36 +1,49 @@
 {
-    "name": "lightning-snippets",
-    "displayName": "Lightning Snippets",
-    "description": "Programming Code Snippets for VS Code",
-    "version": "1.0.1",
-    "engines": {
-        "vscode": "^1.48.0"
-    },
-    "publisher": "tasnimzotder",
-    "author": {
-        "name": "Tasnim Zotder"
-    },
-    "icon": "icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/tasnimzotder/lightning-snippets.git"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "cpp",
-                "path": "./snippets/cpp-snippets.code-snippets"
-            },
-            {
-                "language": "python",
-                "path": "./snippets/py-snippets.code-snippets"
-            }
-        ]
-    },
-    "__metadata": {
-        "publisherDisplayName": "Tasnim Zotder"
-    }
+  "name": "lightning-snippets",
+  "displayName": "Lightning Snippets",
+  "description": "Programming Code Snippets for VS Code",
+  "version": "1.0.2",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "publisher": "tasnimzotder",
+  "author": {
+    "name": "Tasnim Zotder"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tasnimzotder/lightning-snippets.git"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "python",
+    "cpp",
+    "snippets",
+    "emoji"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/cpp-snippets.code-snippets"
+      },
+      {
+        "language": "python",
+        "path": "./snippets/py-snippets.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/md-snippets.code-snippets"
+      },
+      {
+        "path": "./snippets/emoji-snippets.code-snippets"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Tasnim Zotder"
+  }
 }
