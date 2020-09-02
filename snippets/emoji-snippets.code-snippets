@@ -3,84 +3,799 @@
     "prefix": ":",
     "body": ":"
   },
-  "Grinning Face": {
-    "prefix": [":face", ":grinning"],
-    "body": "😀"
+  "Grinning": {
+    "prefix": [":grinning"],
+    "body": "😀",
+    "description": "Grinning"
   },
-  "Grinning face with big eyes": {
-    "prefix": [":face", ":grinning", ":big_eyes"],
-    "body": "😃"
+  "Smile": {
+    "prefix": [":smile"],
+    "body": "😄",
+    "description": "Smile"
   },
-  "Grinning face with smiling eyes": {
-    "prefix": [":face", ":grinning", ":smiling_eyes"],
-    "body": "😄"
+  "Laughing": {
+    "prefix": [":laughing", ":satisfied"],
+    "body": "😆",
+    "description": "Laughing, Satisfed"
   },
-  "Beaming face with smiling eyes": {
-    "prefix": [":face", ":beaming", ":smiling_eyes"],
-    "body": "😁"
+  "Rofl": {
+    "prefix": [":rofl"],
+    "body": "🤣",
+    "description": "Rofl"
   },
-  "Grinning squinting face": {
-    "prefix": [":face", ":grinning", ":squinting"],
-    "body": "😆"
+  "Slightly Smiling Face": {
+    "prefix": [":slighyly_smiling_face"],
+    "body": "🙂",
+    "description": "Slightly Smiling Face"
   },
-  "Grinning face with sweat": {
-    "prefix": [":face", ":sweat", ":grinning"],
-    "body": "😅"
+  "Wink": {
+    "prefix": [":wink"],
+    "body": "😉",
+    "description": "Wink"
   },
-  "Rolling on the floor laughing": {
-    "prefix": [":laughing", ":rolling_on_floor"],
-    "body": "🤣"
+  "Innocent": {
+    "prefix": [":innocent"],
+    "body": "😇",
+    "description": "Innocent"
   },
-  "Face with tears of joy": {
-    "prefix": [":face", ":tears", ":joy"],
-    "body": "😂"
+  "Smiley": {
+    "prefix": [":smiley"],
+    "body": "😃",
+    "description": "Smiley"
   },
-  "Slightly smiling face": {
-    "prefix": [":face", ":smiling", ":slightly_smiling"],
-    "body": "🙂"
+  "Grin": {
+    "prefix": [":grin"],
+    "body": "😁",
+    "description": "Grin"
   },
-  "Upside-down face": {
-    "prefix": [":face", ":upside-down"],
-    "body": "🙃"
+  "Sweat Smile": {
+    "prefix": [":sweet_smile"],
+    "body": "😅",
+    "description": "Sweet Smile"
   },
-  "Winking face": {
-    "prefix": [":face", ":winking"],
-    "body": "😉"
+  "Joy": {
+    "prefix": [":joy"],
+    "body": "😂",
+    "description": "Joy"
   },
-  "Smiling face with smiling eyes": {
-    "prefix": [":face", ":smiling_face", ":smiling_eyes"],
-    "body": "😊"
+  "Upside Down Face": {
+    "prefix": [":upside_down_face"],
+    "body": "🙃",
+    "description": "Upside Down Face"
   },
-  "Smiling face with halo": {
-    "prefix": [":halo", ":smiling_face"],
-    "body": "😇"
+  "Blush": {
+    "prefix": [":blush"],
+    "body": "😊",
+    "description": "Blush"
   },
-  "Pile of poo": {
-    "prefix": [":poo", ":pile_of_poo"],
-    "body": "💩"
+  "Smiling Face with three Hearts": {
+    "prefix": [":smiling_face_with_three_hearts"],
+    "body": "🥰",
+    "description": "Smiling Face With Three Hearts"
   },
-  "Face with Rolling Eyes": {
-    "prefix": [":face", ":rolling_eyes"],
-    "body": "🙄"
+  "Star Struck": {
+    "prefix": [":star_struck"],
+    "body": "🤩",
+    "description": "Star Struck"
   },
-  "Distraught Face": {
-    "prefix": [":face", ":distraught"],
-    "body": "😫"
+  "Kissing": {
+    "prefix": [":kissing"],
+    "body": "😗",
+    "description": "Kissing"
   },
-  "Thinking Face": {
-    "prefix": [":face", ":thinking"],
-    "body": "🤔"
+  "Kissing Closed Eyes": {
+    "prefix": [":kissing_closed_eyes"],
+    "body": "😚",
+    "description": "Kissing Closed Eyes"
   },
-  "Fire": {
-    "prefix": [":fire"],
-    "body": "🔥"
+  "Heart Eyes": {
+    "prefix": [":heart_eyes"],
+    "body": "😍",
+    "description": "Heart Eyes"
   },
-  "Red heart": {
-    "prefix": [":red", ":heart_red"],
-    "body": "❤️"
+  "Relaxed": {
+    "prefix": [":relaxed"],
+    "body": "☺️",
+    "description": "Relaxed"
   },
-  "Loudly Crying Face": {
-    "prefix": [":crying_loudly", ":face"],
-    "body": "😭"
+  "Kissing Smiling Eyes": {
+    "prefix": [":kissing_smiling"],
+    "body": "😙",
+    "description": "Kissing Smiling Eyes"
+  },
+  "Yum": {
+    "prefix": [":yum"],
+    "body": "😋",
+    "description": "Yum"
+  },
+  "Stuck out Tongue Winking Eye": {
+    "prefix": [":stuck_out_tongue_winking_eye"],
+    "body": "😜",
+    "description": "Stuck Out Tongue Winking Eye"
+  },
+  "Stuck out Tongue Closed Eyes": {
+    "prefix": [":stuck_out_tongue_closed_eyes"],
+    "body": "😝",
+    "description": "Stuck Out Tongue Closed Eyes"
+  },
+  "Stuck out Tongue": {
+    "prefix": [":stuck_out_tongue"],
+    "body": "😛",
+    "description": "Stuck Out Tongue"
+  },
+  "Zancy Face": {
+    "prefix": [":zany_face"],
+    "body": "🤪",
+    "description": "Zancy Face"
+  },
+  "Money Mouth Face": {
+    "prefix": [":money_mouth_face"],
+    "body": "🤑",
+    "description": "Money Mouth Face"
+  },
+  "Hugs": {
+    "prefix": [":hugs"],
+    "body": "🤗",
+    "description": "Hugs"
+  },
+  "Shushing Face": {
+    "prefix": [":shushing_face"],
+    "body": "🤫",
+    "description": "Shushing Face"
+  },
+  "Hand Over Mouth": {
+    "prefix": [":hand_over_mouth"],
+    "body": "🤭",
+    "description": "Hand Over Mouth"
+  },
+  "Thinking": {
+    "prefix": [":thinking"],
+    "body": "🤔",
+    "description": "Thinking"
+  },
+  "Zipper Mouth Face": {
+    "prefix": [":zipper_mouth_face"],
+    "body": "🤐",
+    "description": "Zipper Mouth Face"
+  },
+  "Neutral Face": {
+    "prefix": [":neutral_face"],
+    "body": "😐",
+    "description": "Neutral Face"
+  },
+  "No Mouth": {
+    "prefix": [":no_mouth"],
+    "body": "😶",
+    "description": "No Mouth"
+  },
+  "Unamused": {
+    "prefix": [":unamused"],
+    "body": "😒",
+    "description": "Unamused"
+  },
+  "Grimacing": {
+    "prefix": [":grimacing"],
+    "body": "😬",
+    "description": "Grimacing"
+  },
+  "Raised Eyebrow": {
+    "prefix": [":raised_eyebrow"],
+    "body": "🤨",
+    "description": "Raised Eyebrow"
+  },
+  "Expressionless": {
+    "prefix": [":expressionless"],
+    "body": "😑",
+    "description": "Expressionless"
+  },
+  "Smirk": {
+    "prefix": [":smirk"],
+    "body": "😏",
+    "description": "Smirk"
+  },
+  "Roll Eyes": {
+    "prefix": [":roll_eyes"],
+    "body": "🙄",
+    "description": "Roll Eyes"
+  },
+  "Lying Face": {
+    "prefix": [":lying_face"],
+    "body": "🤥",
+    "description": "Lying Face"
+  },
+  "Relieved": {
+    "prefix": [":relieved"],
+    "body": "😌",
+    "description": "Relieved"
+  },
+  "Sleepy": {
+    "prefix": [":sleepy"],
+    "body": "😪",
+    "description": "Sleepy"
+  },
+  "Pensive": {
+    "prefix": [":pensive"],
+    "body": "😔",
+    "description": "Pensive"
+  },
+  "Drolling Face": {
+    "prefix": [":drooling_face"],
+    "body": "🤤",
+    "description": "Drolling Face"
+  },
+  "Cowboy Hat Face": {
+    "prefix": [":cowboy_hat_face"],
+    "body": "🤠",
+    "description": "Cowboy Hat Face"
+  },
+  "Partying Face": {
+    "prefix": [":partying_face"],
+    "body": "🥳",
+    "description": "Partying Face"
+  },
+  "Sunglasses": {
+    "prefix": [":sunglasses"],
+    "body": "😎",
+    "description": "Sunglasses"
+  },
+  "Monocle Face": {
+    "prefix": [":monocle_face"],
+    "body": "🧐",
+    "description": "Monocle Face"
+  },
+  "Nerd Face": {
+    "prefix": [":nerd_face"],
+    "body": "🤓",
+    "description": "Nerd Face"
+  },
+  "Mask": {
+    "prefix": [":mask"],
+    "body": "😷",
+    "description": "Mask"
+  },
+  "Face with Head Bandage": {
+    "prefix": [":face_with_head_bandage"],
+    "body": "🤕",
+    "description": "Face with Head Bandage"
+  },
+  "Vomiting Face": {
+    "prefix": [":vomiting_face"],
+    "body": "🤮",
+    "description": "Vomiting Face"
+  },
+  "Hot Face": {
+    "prefix": [":hot_face"],
+    "body": "🥵",
+    "description": "Hot Face"
+  },
+  "Woozy Face": {
+    "prefix": [":woozy_face"],
+    "body": "🥴",
+    "description": "Woozy Face"
+  },
+  "Exploding Head": {
+    "prefix": [":exploding_head"],
+    "body": "🤯",
+    "description": "Exploding Head"
+  },
+  "Face with Thermometer": {
+    "prefix": [":face_with_thermometer"],
+    "body": "🤒",
+    "description": "Face with Thermometer"
+  },
+  "Nauseated Face": {
+    "prefix": [":nauseated_face"],
+    "body": "🤢",
+    "description": "Nauseated Face"
+  },
+  "Sneezing Face": {
+    "prefix": [":sneezing_face"],
+    "body": "🤧",
+    "description": "Sneezing Face"
+  },
+  "Cold Face": {
+    "prefix": [":cold_face"],
+    "body": "🥶",
+    "description": "Cold Face"
+  },
+  "Dizzy Face": {
+    "prefix": [":dizzy_face"],
+    "body": "😵",
+    "description": "Dizzy Face"
+  },
+  "Confused": {
+    "prefix": [":confused"],
+    "body": "😕",
+    "description": "Confused"
+  },
+  "Slightly Frowning Face": {
+    "prefix": [":slightly_frowning_face"],
+    "body": "🙁",
+    "description": "Slightly Frowning Face"
+  },
+  "Open Mouth": {
+    "prefix": [":open_mouth"],
+    "body": "😮",
+    "description": "Open Mouth"
+  },
+  "Astonished": {
+    "prefix": [":astonished"],
+    "body": "😲",
+    "description": "Astonished"
+  },
+  "Pleading Face": {
+    "prefix": [":pleading_face"],
+    "body": "🥺",
+    "description": "Pleading Face"
+  },
+  "Anguished": {
+    "prefix": [":anguished"],
+    "body": "😧",
+    "description": "Anguished"
+  },
+  "Cold Sweat": {
+    "prefix": [":cold_sweat"],
+    "body": "😰",
+    "description": "Cold Sweat"
+  },
+  "Cry": {
+    "prefix": [":cry"],
+    "body": "😢",
+    "description": "Cry"
+  },
+  "Scream": {
+    "prefix": [":scream"],
+    "body": "😱",
+    "description": "Scream"
+  },
+  "Preseverve": {
+    "prefix": [":persevere"],
+    "body": "😣",
+    "description": "Preseverve"
+  },
+  "Sweat": {
+    "prefix": [":sweat"],
+    "body": "😓",
+    "description": "Sweat"
+  },
+  "Tired Face": {
+    "prefix": [":tired_face"],
+    "body": "😫",
+    "description": "Tired Face"
+  },
+  "Worried": {
+    "prefix": [":worried"],
+    "body": "😟",
+    "description": "Worried"
+  },
+  "Frowing Face": {
+    "prefix": [":frowning_face"],
+    "body": "☹️",
+    "description": "Frowing Face"
+  },
+  "Hushed": {
+    "prefix": [":hushed"],
+    "body": "😯",
+    "description": "Hushed"
+  },
+  "Flushed": {
+    "prefix": [":flushed"],
+    "body": "😳",
+    "description": "Flushed"
+  },
+  "Frowning": {
+    "prefix": [":frowning"],
+    "body": "😦",
+    "description": "Frowning"
+  },
+  "Fearful": {
+    "prefix": [":fearful"],
+    "body": "😨",
+    "description": "Fearful"
+  },
+  "Disappointed Relieved": {
+    "prefix": [":disappointed_relieved"],
+    "body": "😥",
+    "description": "Disappointed Relieved"
+  },
+  "Sob": {
+    "prefix": [":sob"],
+    "body": "😭",
+    "description": "Sob"
+  },
+  "Confounded": {
+    "prefix": [":confounded"],
+    "body": "😖",
+    "description": "Confounded"
+  },
+  "Disappointed": {
+    "prefix": [":disappointed"],
+    "body": "😞",
+    "description": "Disappointed"
+  },
+  "Weary": {
+    "prefix": [":weary"],
+    "body": "😩",
+    "description": "Weary"
+  },
+  "Yawning Face": {
+    "prefix": [":yawning_face"],
+    "body": "🥱",
+    "description": "Yawning Face"
+  },
+  "Thriumph": {
+    "prefix": [":triumph"],
+    "body": "😤",
+    "description": "Thriumph"
+  },
+  "Angry": {
+    "prefix": [":angry"],
+    "body": "😠",
+    "description": "Angry"
+  },
+  "Smiling Imp": {
+    "prefix": [":smiling_imp"],
+    "body": "😈",
+    "description": "Smiling Imp"
+  },
+  "Skull": {
+    "prefix": [":skull"],
+    "body": "💀",
+    "description": "Skull"
+  },
+  "Pout": {
+    "prefix": [":pout", ":rage"],
+    "body": "😡",
+    "description": "Pout, Rage"
+  },
+  "Cursing Face": {
+    "prefix": [":cursing_face"],
+    "body": "🤬",
+    "description": "🤬"
+  },
+  "Imp": {
+    "prefix": [":imp"],
+    "body": "👿",
+    "description": "Imp"
+  },
+  "Skull and Crossbones": {
+    "prefix": [":skull_and_crossbones"],
+    "body": "☠️",
+    "description": "Skull and Crossbones"
+  },
+  "Poop": {
+    "prefix": [":hankey", ":poop", ":shit"],
+    "body": "💩",
+    "description": "Poop, Hankey, Shit"
+  },
+  "Japanese Ogre": {
+    "prefix": [":japanese_ogre"],
+    "body": "👹",
+    "description": "Japanese Ogre"
+  },
+  "Ghost": {
+    "prefix": [":ghost"],
+    "body": "👻",
+    "description": "Ghost"
+  },
+  "Space Invader": {
+    "prefix": [":space_invader"],
+    "body": "👾",
+    "description": "Space Invader"
+  },
+  "Clown Face": {
+    "prefix": [":clown_face"],
+    "body": "🤡",
+    "description": "Clown Face"
+  },
+  "Japanese Goblin": {
+    "prefix": [":japanese_goblin"],
+    "body": "👺",
+    "description": "Japanese Goblin"
+  },
+  "Alien": {
+    "prefix": [":alien"],
+    "body": "👽",
+    "description": "Alien"
+  },
+  "Robot": {
+    "prefix": [":robot"],
+    "body": "🤖",
+    "description": "Robot"
+  },
+  "Smiley Cat": {
+    "prefix": [":smiley_cat"],
+    "body": "😺",
+    "description": "Smiley Cat"
+  },
+  "Joy Cat": {
+    "prefix": [":joy_cat"],
+    "body": "😹",
+    "description": "Joy Cat"
+  },
+  "Smirk Cat": {
+    "prefix": [":smirk_cat"],
+    "body": "😼",
+    "description": "Smirk Cat"
+  },
+  "Scream Cat": {
+    "prefix": [":scream_cat"],
+    "body": "🙀",
+    "description": "Scream Cat"
+  },
+  "Pouting Cat": {
+    "prefix": [":pouting_cat"],
+    "body": "😾",
+    "description": "Pouting Cat"
+  },
+  "Smile Cat": {
+    "prefix": [":smile_cat"],
+    "body": "😸",
+    "description": "Smile Cat"
+  },
+  "Heart Eyes Cat": {
+    "prefix": [":heart_eyes_cat"],
+    "body": "😻",
+    "description": "Heart Eyes Cat"
+  },
+  "Kissing Cat": {
+    "prefix": [":kissing_cat"],
+    "body": "😽",
+    "description": "Kissing Cat"
+  },
+  "Crying Cat Face": {
+    "prefix": [":crying_cat_face"],
+    "body": "😿",
+    "description": "Crying Cat Face"
+  },
+  "See no Evil": {
+    "prefix": [":see_no_evil"],
+    "body": "🙈",
+    "description": "See no Evil"
+  },
+  "Speak no Evil": {
+    "prefix": [":speak_no_evil"],
+    "body": "🙊",
+    "description": "Speak no Evil"
+  },
+  "Hear no Evil": {
+    "prefix": [":hear_no_evil"],
+    "body": "🙉",
+    "description": "Hear no Evil"
+  },
+  "Kiss": {
+    "prefix": [":kiss"],
+    "body": "💋",
+    "description": "Kiss"
+  },
+  "Cupid": {
+    "prefix": [":cupid"],
+    "body": "💘",
+    "description": "Cupid"
+  },
+  "Sparkling Heart": {
+    "prefix": [":sparkling_heart"],
+    "body": "💖",
+    "description": "Sparkling Heart"
+  },
+  "Heartbeat": {
+    "prefix": [":heartbeat"],
+    "body": "💓",
+    "description": "Heartbeat"
+  },
+  "Two Hearts": {
+    "prefix": [":two_hearts"],
+    "body": "💕",
+    "description": "Two Hearts"
+  },
+  "Heavy Heart Exclamation": {
+    "prefix": [":heavy_heart_exclamation"],
+    "body": "❣️",
+    "description": "Heavy Heart Exclamation"
+  },
+  "Heart": {
+    "prefix": [":heart"],
+    "body": "❤️",
+    "description": "Heart"
+  },
+  "Yellow Heart": {
+    "prefix": [":yellow_heart"],
+    "body": "💛",
+    "description": "Yellow Heart"
+  },
+  "Blue Heart": {
+    "prefix": [":blue_heart"],
+    "body": "💙",
+    "description": "Blue Heart"
+  },
+  "Brown Heart": {
+    "prefix": [":brown_heart"],
+    "body": "🤎",
+    "description": "Brown Heart"
+  },
+  "White Heart": {
+    "prefix": [":white_heart"],
+    "body": "🤍",
+    "description": "White Heart"
+  },
+  "Anger": {
+    "prefix": [":anger"],
+    "body": "💢",
+    "description": "Anger"
+  },
+  "Dizzy": {
+    "prefix": [":dizzy"],
+    "body": "💫",
+    "description": "Dizzy"
+  },
+  "Dash": {
+    "prefix": [":dash"],
+    "body": "💨",
+    "description": "Dash"
+  },
+  "Bomb": {
+    "prefix": [":bomb"],
+    "body": "💣",
+    "description": "Bomb"
+  },
+  "Eye Speech Bubble": {
+    "prefix": [":eye_speech_bubble"],
+    "body": "👁️‍🗨️",
+    "description": "Eye Speech Bubble"
+  },
+  "Right Anger Bubble": {
+    "prefix": [":right_anger_bubble"],
+    "body": "🗯️",
+    "description": "Right Anger Bubble"
+  },
+  "ZZZ": {
+    "prefix": [":zzz"],
+    "body": "💤",
+    "description": "ZZZ"
+  },
+  "Love Letter": {
+    "prefix": [":love_letter"],
+    "body": "💌",
+    "description": "Love Letter"
+  },
+  "Gift Heart": {
+    "prefix": [":gift_heart"],
+    "body": "💝",
+    "description": "Gift Heart"
+  },
+  "Heartpulse": {
+    "prefix": [":heartpulse"],
+    "body": "💗",
+    "description": "Heartpulse"
+  },
+  "Revolving Hearts": {
+    "prefix": [":revolving_hearts"],
+    "body": "💞",
+    "description": "Revolving Hearts"
+  },
+  "Heart Decoration": {
+    "prefix": [":heart_decoration"],
+    "body": "💟",
+    "description": "Heart Decoration"
+  },
+  "Broken Heart": {
+    "prefix": [":broken_heart"],
+    "body": "💔",
+    "description": "Broken Heart"
+  },
+  "Orange Heart": {
+    "prefix": [":orange_heart"],
+    "body": "🧡",
+    "description": "Orange Heart"
+  },
+  "Green Heart": {
+    "prefix": [":green_heart"],
+    "body": "💚",
+    "description": "Green Heart"
+  },
+  "Purple Heart": {
+    "prefix": [":purple_heart"],
+    "body": "💜",
+    "description": "Purple Heart"
+  },
+  "Black Heart": {
+    "prefix": [":black_heart"],
+    "body": "🖤",
+    "description": "Black Heart"
+  },
+  "100": {
+    "prefix": [":100"],
+    "body": "💯",
+    "description": "100"
+  },
+  "Boom": {
+    "prefix": [":boom", ":collision"],
+    "body": "💥",
+    "description": "Boom, Collision"
+  },
+  "Sweat Drops": {
+    "prefix": [":sweat_drops:"],
+    "body": "💦",
+    "description": "Sweat Drops"
+  },
+  "Hole": {
+    "prefix": [":hole"],
+    "body": "🕳️",
+    "description": "Hole"
+  },
+  "Sppech Ballon": {
+    "prefix": [":speech_balloon"],
+    "body": "💬",
+    "description": "Sppech Ballon"
+  },
+  "Left Sppech Ballon": {
+    "prefix": [":speech_balloon"],
+    "body": "🗨️",
+    "description": "Left Sppech Ballon"
+  },
+  "Though Ballon": {
+    "prefix": [":thought_balloon"],
+    "body": "💭",
+    "description": "Though Ballon"
+  },
+  "Wave": {
+    "prefix": [":wave"],
+    "body": "👋",
+    "description": "Wave"
+  },
+  "Raised Hand with Fingers Splayed": {
+    "prefix": [":raised_hand_with_fingers_splayed"],
+    "body": "🖐️",
+    "description": "Raised Hand with Fingers Splayed"
+  },
+  "Vulcan Salute": {
+    "prefix": [":vulcan_salute"],
+    "body": "🖖",
+    "description": "Vulcan Salute"
+  },
+  "Raised back with of Hand": {
+    "prefix": [":raised_back_of_hand"],
+    "body": "🤚",
+    "description": "Raised back with of Hand"
+  },
+  "Raised Hand": {
+    "prefix": [":hand", ":raised_hand"],
+    "body": "✋",
+    "description": "Raised Hand"
+  },
+  "Ok Hand": {
+    "prefix": [":ok_hand"],
+    "body": "👌",
+    "description": "Ok Hand"
+  },
+  "V": {
+    "prefix": [":v"],
+    "body": "✌️",
+    "description": "V"
+  },
+  "Love you Gesture": {
+    "prefix": [":love_you_gesture"],
+    "body": "🤟",
+    "description": "Love you Gesture"
+  },
+  "Call me Hand": {
+    "prefix": [":call_me_hand"],
+    "body": "🤙",
+    "description": "Call me Hand"
+  },
+  "Pinching Hand": {
+    "prefix": [":pinching_hand"],
+    "body": "🤏",
+    "description": "Pinching Hand"
+  },
+  "Crossed Fingers": {
+    "prefix": [":crossed_fingers"],
+    "body": "🤞",
+    "description": "Crossed Fingers"
+  },
+  "Metal": {
+    "prefix": [":metal"],
+    "body": "🤘",
+    "description": "Metal"
   }
 }
