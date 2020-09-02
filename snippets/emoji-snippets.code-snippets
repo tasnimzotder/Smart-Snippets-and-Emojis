@@ -1,4 +1,8 @@
 {
+  "empty": {
+    "prefix": ":",
+    "body": ":"
+  },
   "Grinning Face": {
     "prefix": [":face", ":grinning"],
     "body": "😀"
