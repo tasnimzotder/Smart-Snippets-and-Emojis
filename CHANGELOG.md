@@ -4,16 +4,20 @@ All notable changes to the "lightning-snippets" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0]
+
+- Initial release
+
+## [1.0.1]
+
+- Add python funcctions -> sort, search
+
 ## [1.0.2]
 
 - basic emojis
 - markdown styles
 - basic Shields.io icons
 
-## [1.0.1]
+## [1.0.3]
 
-- Add python funcctions -> sort, search
-
-## [1.0.0]
-
-- Initial release
+- Add more emojis
