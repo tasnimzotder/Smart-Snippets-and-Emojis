@@ -54,6 +54,10 @@ Open VS Code and type `ctrl+P`, type `ext install tasnimzotder.lightning-snippet
 
 <!-- Users appreciate release notes as you update your extension. -->
 
+### 1.0.3
+
+- Add more emojis
+
 ### 1.0.2
 
 - basic emojis
@@ -61,12 +65,6 @@ Open VS Code and type `ctrl+P`, type `ext install tasnimzotder.lightning-snippet
 - basic Shields.io icons
 
 ### 1.0.1
-
-- Added python functions -> sort, search
-
-### 1.0.0
-
-- Added basic snippets
 
 ## LICENSE
 
