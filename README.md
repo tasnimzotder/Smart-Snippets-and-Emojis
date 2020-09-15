@@ -1,20 +1,27 @@
 # Lightning Snippets
 
-Simply add Python, C++ code snippets
+Simply add emojis to Markdown, HTML, JavaScript and smart snippets to Python, C++ codes
 
-Add Emojis, Markdown Styles, Shields.io icons
-
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/tasnimzotder.lightning-snippets?style=flat-square)
-.
-![GitHub](https://img.shields.io/github/license/tasnimzotder/lightning-snippets?style=flat-square)
-.
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?style=flat-square)
-.
-![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/tasnimzotder.lightning-snippets?style=flat-square)
+<p align="center">
+  <a><img src="https://img.shields.io/visual-studio-marketplace/v/tasnimzotder.lightning-snippets?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/github/license/tasnimzotder/lightning-snippets?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/visual-studio-marketplace/r/tasnimzotder.lightning-snippets?style=flat-square" /></a>
+<!--   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/tasnimzotder.lightning-snippets?style=flat-square) -->
+<!--   ![GitHub](https://img.shields.io/github/license/tasnimzotder/lightning-snippets?style=flat-square) -->
+<!--   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?style=flat-square) -->
+<!--   ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/tasnimzotder.lightning-snippets?style=flat-square) -->
+</p>
 
 ## Supported Languages
 
-> Python, C++, Markdown
+<p align="center">
+  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" /></a>
+  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></a>
+  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></a>
+  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>
+  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></a>
+</p>
 
 ## How to
 
