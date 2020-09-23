@@ -1,0 +1,47 @@
+{
+  // Node.js
+  "Simple HTTP Server": {
+    "prefix": "http-server",
+    "description": "Simple Http Server",
+    "body": [
+      "const http = require('http');",
+      "const host = \"${1:localhost}\";",
+      "const port = ${2:port};",
+      "",
+      "var server = http.createServer((request, response) => {",
+      "    response.writeHead(200, {\"Content-Type\": \"text/plain\"});",
+      "    console.log(\"server Working\");",
+      "    response.end(\"Server Working Success\");",
+      "});",
+      "",
+      "server.listen(port,host, (error) => { ",
+      "    if (error) {",
+      "        return console.log('Error occured : ', error );",
+      "    }",
+      "",
+      "    console.log('server is listening on ' + host + ':'+ port);",
+      "});",
+      "$0"
+    ]
+  },
+  // Node.js Express.js
+  "Express Get": {
+    "prefix": "app-get",
+    "description": "Express Get",
+    "body": ["${1:app}.get('/${2}', (req, res, next) => {", "\t$0", "});"]
+  },
+  "Express Post": {
+    "prefix": "app-post",
+    "description": "Express Post",
+    "body": ["${1:app}.post('/${2}', (req, res, next) => {", "\t$0", "});"]
+  },
+  "Express Listen": {
+    "prefix": "app-listen",
+    "description": "Express Listen",
+    "body": [
+      "${1:app}.listen(${2:PORT}, () => {",
+      "\tconsole.log(`server is up on port ${PORT}`);$0",
+      "})"
+    ]
+  }
+}

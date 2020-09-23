@@ -4,20 +4,36 @@ All notable changes to the "lightning-snippets" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0]
+## [1.0.4]
 
-- Initial release
+### Changed
 
-## [1.0.1]
+- Rename extension - `Smart Snippets & Emojis` <- `Lightning Snippets`
 
-- Add python funcctions -> sort, search
+### Added
 
-## [1.0.2]
-
-- basic emojis
-- markdown styles
-- basic Shields.io icons
+- Snippets of JavaScript (& Node.js)
 
 ## [1.0.3]
 
-- Add more emojis
+### Added
+
+- More emojis
+
+## [1.0.2]
+
+### Added
+
+- Basic emojis
+- Markdown styles
+- Basic Shields.io icons
+
+## [1.0.1]
+
+### Added
+
+- Python functions -> sort, search
+
+## [1.0.0]
+
+- Initial release
