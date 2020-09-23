@@ -1,8 +1,8 @@
 {
   "name": "lightning-snippets",
-  "displayName": "Lightning Snippets",
-  "description": "",
-  "version": "1.0.3",
+  "displayName": "Smart Snippets & Emojis",
+  "description": "A VS Code extension for code snippets and emojis",
+  "version": "1.0.4",
   "publisher": "tasnimzotder",
   "author": {
     "name": "Tasnim Zotder"
@@ -31,6 +31,10 @@
   "main": "./out/extension.js",
   "contributes": {
     "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/node-snippets.code-snippets"
+      },
       {
         "language": "cpp",
         "path": "./snippets/cpp-snippets.code-snippets"

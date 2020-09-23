@@ -1,26 +1,30 @@
-# Lightning Snippets
+# Smart Snippets & Emojis
 
 Simply add emojis to Markdown, HTML, JavaScript and smart snippets to Python, C++ codes
 
 <p align="center">
   <a><img src="https://img.shields.io/visual-studio-marketplace/v/tasnimzotder.lightning-snippets?style=flat-square" /></a>
   <a><img src="https://img.shields.io/github/license/tasnimzotder/lightning-snippets?style=flat-square" /></a>
-  <a><img src="https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?style=flat-square" /></a>
+  <a><img src="https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?logo=visual%20studio%20code&style=flat-square" /></a>
   <a><img src="https://img.shields.io/visual-studio-marketplace/r/tasnimzotder.lightning-snippets?style=flat-square" /></a>
-<!--   ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/tasnimzotder.lightning-snippets?style=flat-square) -->
-<!--   ![GitHub](https://img.shields.io/github/license/tasnimzotder/lightning-snippets?style=flat-square) -->
-<!--   ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/tasnimzotder.lightning-snippets?style=flat-square) -->
-<!--   ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/tasnimzotder.lightning-snippets?style=flat-square) -->
 </p>
 
 ## Supported Languages
 
+### 1. Emojis & Decorations
+
 <p align="center">
-  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" /></a>
-  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></a>
-  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></a>
-  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></a>
-  <a><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></a>
+  <a><img height="32" width="32" src="./images/icons/markdown.png" /></a>
+  <a><img height="32" width="32" src="./images/icons/html.png" /></a>
+</p>
+
+### 2. Smart Snippets (w/ emoji)
+
+<p align="center">
+  <a><img height="32" width="32" src="./images/icons/javascript.png" /></a>
+  <a><img height="32" width="32" src="./images/icons/node-js.png" /></a>
+  <a><img height="32" width="32" src="./images/icons/python.png" /></a>
+  <a><img height="32" width="32" src="./images/icons/cpp.png" /></a>
 </p>
 
 ## How to
@@ -61,17 +65,29 @@ Open VS Code and type `ctrl+P`, type `ext install tasnimzotder.lightning-snippet
 
 <!-- Users appreciate release notes as you update your extension. -->
 
-### 1.0.3
+## [1.0.4]
 
-- Add more emojis
+### Changed
 
-### 1.0.2
+- Rename extension - `Smart Snippets & Emojis` <- `Lightning Snippets`
 
-- basic emojis
-- markdown styles
-- basic Shields.io icons
+### Added
 
-### 1.0.1
+- Snippets of JavaScript (& Node.js)
+
+## [1.0.3]
+
+### Added
+
+- More emojis
+
+## [1.0.2]
+
+### Added
+
+- Basic emojis
+- Markdown styles
+- Basic Shields.io icons
 
 ## LICENSE
 
